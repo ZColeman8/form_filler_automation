@@ -1,0 +1,425 @@
+2025-07-07 15:18:22,923 - INFO - Starting test for: Zach Coleman
+2025-07-07 15:18:26,892 - DEBUG - Attempted to remove ads from the page.
+2025-07-07 15:18:26,892 - DEBUG - Filling form fields...
+2025-07-07 15:18:26,892 - DEBUG - Entering first name: Zach
+2025-07-07 15:18:27,315 - DEBUG - Entering last name: Coleman
+2025-07-07 15:18:27,500 - DEBUG - Entering email: zach@example.com
+2025-07-07 15:18:27,688 - DEBUG - Selecting gender: Male
+2025-07-07 15:18:27,823 - DEBUG - Entering phone number: 1234567890
+2025-07-07 15:18:28,165 - DEBUG - Entering birthdate: 21 Oct 1995
+2025-07-07 15:18:29,651 - DEBUG - Entering subject: History
+2025-07-07 15:18:30,032 - DEBUG - Selecting hobby: Reading
+2025-07-07 15:18:30,119 - DEBUG - Uploading picture from: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/assets/image1.JPG
+2025-07-07 15:18:30,166 - DEBUG - Entering address: 123 Main St
+2025-07-07 15:18:30,321 - DEBUG - Selecting state: NCR and city: Delhi
+2025-07-07 15:18:30,676 - DEBUG - Submitting the form...
+2025-07-07 15:18:30,676 - DEBUG - Clicking the submit button.
+2025-07-07 15:18:30,843 - DEBUG - Saving confirmation screenshot as: confirmation_Zach_Coleman_2025-07-07_15-18-30.png
+2025-07-07 15:18:31,276 - DEBUG - Fetching confirmation modal text.
+2025-07-07 15:18:31,305 - DEBUG - Confirmation text: Thanks for submitting the form
+2025-07-07 15:18:31,305 - INFO - Test passed for: Zach Coleman
+2025-07-07 15:18:33,758 - INFO - Starting test for: Jane Doe
+2025-07-07 15:18:38,004 - DEBUG - Attempted to remove ads from the page.
+2025-07-07 15:18:38,004 - DEBUG - Filling form fields...
+2025-07-07 15:18:38,005 - DEBUG - Entering first name: Jane
+2025-07-07 15:18:38,445 - DEBUG - Entering last name: Doe
+2025-07-07 15:18:38,708 - DEBUG - Entering email: jane.doe@example.com
+2025-07-07 15:18:38,844 - DEBUG - Selecting gender: Female
+2025-07-07 15:18:38,907 - DEBUG - Entering phone number: 0987654321
+2025-07-07 15:18:39,434 - DEBUG - Entering birthdate: 15 May 1990
+2025-07-07 15:18:39,858 - DEBUG - Entering subject: Maths
+2025-07-07 15:18:40,018 - DEBUG - Selecting hobby: Music
+2025-07-07 15:18:40,056 - DEBUG - Uploading picture from: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/assets/image2.JPG
+2025-07-07 15:18:40,092 - DEBUG - Entering address: 456 Elm St
+2025-07-07 15:18:40,161 - DEBUG - Selecting state: Uttar Pradesh and city: Lucknow
+2025-07-07 15:18:40,422 - DEBUG - Submitting the form...
+2025-07-07 15:18:40,422 - DEBUG - Clicking the submit button.
+2025-07-07 15:18:40,574 - DEBUG - Saving confirmation screenshot as: confirmation_Jane_Doe_2025-07-07_15-18-40.png
+2025-07-07 15:18:40,926 - DEBUG - Fetching confirmation modal text.
+2025-07-07 15:18:40,952 - DEBUG - Confirmation text: Thanks for submitting the form
+2025-07-07 15:18:40,952 - INFO - Test passed for: Jane Doe
+2025-07-07 15:28:12,547 - INFO - Starting test for: Zach Coleman
+2025-07-07 15:28:19,169 - DEBUG - Attempted to remove ads from the page.
+2025-07-07 15:28:19,169 - DEBUG - Filling form fields...
+2025-07-07 15:28:19,170 - DEBUG - Entering first name: Zach
+2025-07-07 15:28:23,023 - DEBUG - Entering last name: Coleman
+2025-07-07 15:28:23,149 - DEBUG - Entering email: zach@example.com
+2025-07-07 15:28:23,266 - DEBUG - Selecting gender: Male
+2025-07-07 15:28:23,306 - DEBUG - Entering phone number: 1234567890
+2025-07-07 15:28:23,414 - DEBUG - Entering birthdate: 21 Oct 1995
+2025-07-07 15:28:23,968 - DEBUG - Entering subject: History
+2025-07-07 15:28:24,227 - DEBUG - Selecting hobby: Reading
+2025-07-07 15:28:24,300 - DEBUG - Uploading picture from: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/assets/image1.JPG
+2025-07-07 15:28:24,361 - DEBUG - Entering address: 123 Main St
+2025-07-07 15:28:24,481 - DEBUG - Selecting state: NCR and city: Delhi
+2025-07-07 15:28:25,017 - DEBUG - Submitting the form...
+2025-07-07 15:28:25,018 - DEBUG - Clicking the submit button.
+2025-07-07 15:28:25,778 - DEBUG - Saving confirmation screenshot as: confirmation_Zach_Coleman_2025-07-07_15-28-25.png
+2025-07-07 15:28:26,214 - INFO - 
+✅ Confirmation screenshot saved to: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/screenshots/confirmation_Zach_Coleman_2025-07-07_15-28-25.png
+2025-07-07 15:28:26,215 - DEBUG - Fetching confirmation modal text.
+2025-07-07 15:28:26,243 - DEBUG - Confirmation text: Thanks for submitting the form
+2025-07-07 15:28:26,244 - INFO - Test passed for: Zach Coleman
+2025-07-07 15:28:29,018 - INFO - Starting test for: Jane Doe
+2025-07-07 15:28:32,376 - DEBUG - Attempted to remove ads from the page.
+2025-07-07 15:28:32,376 - DEBUG - Filling form fields...
+2025-07-07 15:28:32,377 - DEBUG - Entering first name: Jane
+2025-07-07 15:28:32,615 - DEBUG - Entering last name: Doe
+2025-07-07 15:28:32,696 - DEBUG - Entering email: jane.doe@example.com
+2025-07-07 15:28:32,874 - DEBUG - Selecting gender: Female
+2025-07-07 15:28:32,930 - DEBUG - Entering phone number: 0987654321
+2025-07-07 15:28:33,411 - DEBUG - Entering birthdate: 15 May 1990
+2025-07-07 15:31:47,833 - INFO - Starting test for: Zach Coleman
+2025-07-07 15:31:55,066 - DEBUG - Attempted to remove ads from the page.
+2025-07-07 15:31:55,066 - DEBUG - Filling form fields...
+2025-07-07 15:31:55,067 - DEBUG - Entering first name: Zach
+2025-07-07 15:31:55,502 - DEBUG - Entering last name: Coleman
+2025-07-07 15:31:55,689 - DEBUG - Entering email: zach@example.com
+2025-07-07 15:31:56,110 - DEBUG - Selecting gender: Male
+2025-07-07 15:31:56,153 - DEBUG - Entering phone number: 1234567890
+2025-07-07 15:31:59,539 - DEBUG - Entering birthdate: 21 Oct 1995
+2025-07-07 15:32:00,203 - DEBUG - Entering subject: History
+2025-07-07 15:32:00,437 - DEBUG - Selecting hobby: Reading
+2025-07-07 15:32:00,489 - DEBUG - Uploading picture from: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/assets/image1.JPG
+2025-07-07 15:32:00,539 - DEBUG - Entering address: 123 Main St
+2025-07-07 15:32:00,652 - DEBUG - Selecting state: NCR and city: Delhi
+2025-07-07 15:32:01,151 - DEBUG - Submitting the form...
+2025-07-07 15:32:01,152 - DEBUG - Clicking the submit button.
+2025-07-07 15:32:01,821 - DEBUG - Saving confirmation screenshot as: confirmation_Zach_Coleman_2025-07-07_15-32-01.png
+2025-07-07 15:32:02,339 - INFO - 
+✅ Confirmation screenshot saved to: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/screenshots/confirmation_Zach_Coleman_2025-07-07_15-32-01.png
+2025-07-07 15:32:02,340 - DEBUG - Fetching confirmation modal text.
+2025-07-07 15:32:02,376 - DEBUG - Confirmation text: Thanks for submitting the form
+2025-07-07 15:32:02,376 - INFO - Test passed for: Zach Coleman
+2025-07-07 15:32:05,139 - INFO - Starting test for: Jane Doe
+2025-07-07 15:32:12,053 - DEBUG - Attempted to remove ads from the page.
+2025-07-07 15:32:12,053 - DEBUG - Filling form fields...
+2025-07-07 15:32:12,053 - DEBUG - Entering first name: Jane
+2025-07-07 15:32:12,313 - DEBUG - Entering last name: Doe
+2025-07-07 15:32:12,511 - DEBUG - Entering email: jane.doe@example.com
+2025-07-07 15:32:13,243 - DEBUG - Selecting gender: Female
+2025-07-07 15:32:13,362 - DEBUG - Entering phone number: 0987654321
+2025-07-07 15:32:17,005 - DEBUG - Entering birthdate: 15 May 1990
+2025-07-07 15:32:17,577 - DEBUG - Entering subject: Maths
+2025-07-07 15:32:17,839 - DEBUG - Selecting hobby: Music
+2025-07-07 15:32:17,904 - DEBUG - Uploading picture from: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/assets/image2.JPG
+2025-07-07 15:32:17,974 - DEBUG - Entering address: 456 Elm St
+2025-07-07 15:32:18,087 - DEBUG - Selecting state: Uttar Pradesh and city: Lucknow
+2025-07-07 15:32:18,620 - DEBUG - Submitting the form...
+2025-07-07 15:32:18,621 - DEBUG - Clicking the submit button.
+2025-07-07 15:32:18,829 - DEBUG - Saving confirmation screenshot as: confirmation_Jane_Doe_2025-07-07_15-32-18.png
+2025-07-07 15:32:19,793 - INFO - 
+✅ Confirmation screenshot saved to: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/screenshots/confirmation_Jane_Doe_2025-07-07_15-32-18.png
+2025-07-07 15:32:19,794 - DEBUG - Fetching confirmation modal text.
+2025-07-07 15:32:19,828 - DEBUG - Confirmation text: Thanks for submitting the form
+2025-07-07 15:32:19,828 - INFO - Test passed for: Jane Doe
+2025-07-07 15:43:46,585 - INFO - Starting test for: Zach Coleman
+2025-07-07 15:43:54,621 - DEBUG - Ads removed from the page.
+2025-07-07 15:43:54,622 - DEBUG - Filling form fields...
+2025-07-07 15:43:54,622 - DEBUG - Entering first name: Zach
+2025-07-07 15:43:55,619 - DEBUG - Entering last name: Coleman
+2025-07-07 15:43:55,749 - DEBUG - Entering email: zach@example.com
+2025-07-07 15:43:55,897 - DEBUG - Selecting gender: Male
+2025-07-07 15:43:56,020 - DEBUG - Entering phone number: 1234567890
+2025-07-07 15:43:56,173 - DEBUG - Entering birthdate: 21 Oct 1995
+2025-07-07 15:43:56,728 - DEBUG - Ads removed from the page.
+2025-07-07 15:43:58,053 - DEBUG - Entering subject: History
+2025-07-07 15:43:58,270 - DEBUG - Selecting hobby: Reading
+2025-07-07 15:43:58,317 - DEBUG - Uploading picture from: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/assets/image1.JPG
+2025-07-07 15:43:58,362 - DEBUG - Entering address: 123 Main St
+2025-07-07 15:43:58,449 - DEBUG - Selecting state: NCR and city: Delhi
+2025-07-07 15:43:58,784 - DEBUG - Submitting the form...
+2025-07-07 15:43:58,785 - DEBUG - Clicking the submit button.
+2025-07-07 15:43:59,357 - DEBUG - Ads removed from the page.
+2025-07-07 15:43:59,486 - DEBUG - Saving confirmation screenshot as: confirmation_Zach_Coleman_2025-07-07_15-43-59.png
+2025-07-07 15:43:59,842 - INFO - 
+✅ Confirmation screenshot saved to: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/screenshots/confirmation_Zach_Coleman_2025-07-07_15-43-59.png
+2025-07-07 15:43:59,842 - DEBUG - Fetching confirmation modal text.
+2025-07-07 15:43:59,875 - DEBUG - Confirmation text: Thanks for submitting the form
+2025-07-07 15:43:59,875 - INFO - Test passed for: Zach Coleman
+2025-07-07 15:44:02,656 - INFO - Starting test for: Jane Doe
+2025-07-07 15:44:05,904 - DEBUG - Ads removed from the page.
+2025-07-07 15:44:05,904 - DEBUG - Filling form fields...
+2025-07-07 15:44:05,904 - DEBUG - Entering first name: Jane
+2025-07-07 15:44:06,197 - DEBUG - Entering last name: Doe
+2025-07-07 15:44:06,307 - DEBUG - Entering email: jane.doe@example.com
+2025-07-07 15:44:06,719 - DEBUG - Selecting gender: Female
+2025-07-07 15:44:07,713 - DEBUG - Entering phone number: 0987654321
+2025-07-07 15:44:07,816 - DEBUG - Entering birthdate: 15 May 1990
+2025-07-07 15:44:08,688 - DEBUG - Ads removed from the page.
+2025-07-07 15:44:09,552 - DEBUG - Entering subject: Maths
+2025-07-07 15:44:09,699 - DEBUG - Selecting hobby: Music
+2025-07-07 15:44:09,736 - DEBUG - Uploading picture from: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/assets/image2.JPG
+2025-07-07 15:44:09,773 - DEBUG - Entering address: 456 Elm St
+2025-07-07 15:44:09,837 - DEBUG - Selecting state: Uttar Pradesh and city: Lucknow
+2025-07-07 15:44:10,102 - DEBUG - Submitting the form...
+2025-07-07 15:44:10,102 - DEBUG - Clicking the submit button.
+2025-07-07 15:44:10,622 - DEBUG - Ads removed from the page.
+2025-07-07 15:44:10,746 - DEBUG - Saving confirmation screenshot as: confirmation_Jane_Doe_2025-07-07_15-44-10.png
+2025-07-07 15:44:11,117 - INFO - 
+✅ Confirmation screenshot saved to: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/screenshots/confirmation_Jane_Doe_2025-07-07_15-44-10.png
+2025-07-07 15:44:11,117 - DEBUG - Fetching confirmation modal text.
+2025-07-07 15:44:11,143 - DEBUG - Confirmation text: Thanks for submitting the form
+2025-07-07 15:44:11,143 - INFO - Test passed for: Jane Doe
+2025-07-07 15:49:55,754 - INFO - Starting test for: Zach Coleman
+2025-07-07 15:49:58,753 - DEBUG - Ads removed from the page.
+2025-07-07 15:49:58,754 - DEBUG - Filling form fields...
+2025-07-07 15:49:58,754 - DEBUG - Entering first name: Zach
+2025-07-07 15:49:59,223 - DEBUG - Entering last name: Coleman
+2025-07-07 15:49:59,302 - DEBUG - Entering email: zach@example.com
+2025-07-07 15:49:59,544 - DEBUG - Selecting gender: Male
+2025-07-07 15:49:59,775 - DEBUG - Entering phone number: 1234567890
+2025-07-07 15:50:00,322 - DEBUG - Entering birthdate: 21 Oct 1995
+2025-07-07 15:50:01,511 - DEBUG - Ads removed from the page.
+2025-07-07 15:50:02,057 - DEBUG - Entering subject: History
+2025-07-07 15:50:02,281 - DEBUG - Selecting hobby: Reading
+2025-07-07 15:50:02,340 - DEBUG - Uploading picture from: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/assets/image1.JPG
+2025-07-07 15:50:02,383 - DEBUG - Entering address: 123 Main St
+2025-07-07 15:50:02,454 - DEBUG - Selecting state: NCR and city: Delhi
+2025-07-07 15:50:02,738 - DEBUG - Submitting the form...
+2025-07-07 15:50:02,738 - DEBUG - Clicking the submit button.
+2025-07-07 15:50:07,863 - DEBUG - Ads removed from the page.
+2025-07-07 15:50:07,997 - DEBUG - Saving confirmation screenshot as: confirmation_Zach_Coleman_2025-07-07_15-50-07.png
+2025-07-07 15:50:08,471 - INFO - 
+✅ Confirmation screenshot saved to: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/screenshots/confirmation_Zach_Coleman_2025-07-07_15-50-07.png
+2025-07-07 15:50:08,471 - DEBUG - Fetching confirmation modal text.
+2025-07-07 15:50:08,506 - DEBUG - Confirmation text: Thanks for submitting the form
+2025-07-07 15:50:08,506 - INFO - Test passed for: Zach Coleman
+2025-07-07 15:50:11,120 - INFO - Starting test for: Jane Doe
+2025-07-07 15:50:14,442 - DEBUG - Ads removed from the page.
+2025-07-07 15:50:14,442 - DEBUG - Filling form fields...
+2025-07-07 15:50:14,442 - DEBUG - Entering first name: Jane
+2025-07-07 15:50:14,805 - DEBUG - Entering last name: Doe
+2025-07-07 15:50:15,022 - DEBUG - Entering email: jane.doe@example.com
+2025-07-07 15:50:15,165 - DEBUG - Selecting gender: Female
+2025-07-07 15:50:15,607 - DEBUG - Entering phone number: 0987654321
+2025-07-07 15:50:16,323 - DEBUG - Entering birthdate: 15 May 1990
+2025-07-07 15:50:16,442 - DEBUG - Ads removed from the page.
+2025-07-07 15:50:17,092 - DEBUG - Entering subject: Maths
+2025-07-07 15:50:17,308 - DEBUG - Selecting hobby: Music
+2025-07-07 15:50:17,356 - DEBUG - Uploading picture from: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/assets/image2.JPG
+2025-07-07 15:50:17,402 - DEBUG - Entering address: 456 Elm St
+2025-07-07 15:50:17,471 - DEBUG - Selecting state: Uttar Pradesh and city: Lucknow
+2025-07-07 15:50:17,754 - DEBUG - Submitting the form...
+2025-07-07 15:50:17,754 - DEBUG - Clicking the submit button.
+2025-07-07 15:50:17,775 - DEBUG - Ads removed from the page.
+2025-07-07 15:50:18,444 - DEBUG - Saving confirmation screenshot as: confirmation_Jane_Doe_2025-07-07_15-50-18.png
+2025-07-07 15:50:18,710 - INFO - 
+✅ Confirmation screenshot saved to: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/screenshots/confirmation_Jane_Doe_2025-07-07_15-50-18.png
+2025-07-07 15:50:18,711 - DEBUG - Fetching confirmation modal text.
+2025-07-07 15:50:18,742 - DEBUG - Confirmation text: Thanks for submitting the form
+2025-07-07 15:50:18,743 - INFO - Test passed for: Jane Doe
+2025-07-07 15:57:03,641 - INFO - Starting test for: Zach Coleman
+2025-07-07 15:57:10,869 - DEBUG - Ads dismissed successfully.
+2025-07-07 15:57:10,870 - DEBUG - Filling form fields...
+2025-07-07 15:57:10,870 - DEBUG - Entering first name: Zach
+2025-07-07 15:57:11,227 - DEBUG - Entering last name: Coleman
+2025-07-07 15:57:11,303 - DEBUG - Entering email: zach@example.com
+2025-07-07 15:57:11,390 - DEBUG - Selecting gender: Male
+2025-07-07 15:57:11,599 - DEBUG - Entering phone number: 1234567890
+2025-07-07 15:57:11,757 - DEBUG - Entering birthdate: 21 Oct 1995
+2025-07-07 15:57:11,827 - DEBUG - Ads dismissed successfully.
+2025-07-07 15:57:12,409 - DEBUG - Entering subject: History
+2025-07-07 15:57:13,854 - DEBUG - Selecting hobby: Reading
+2025-07-07 15:57:14,115 - DEBUG - Uploading picture from: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/assets/image1.JPG
+2025-07-07 15:57:14,157 - DEBUG - Entering address: 123 Main St
+2025-07-07 15:57:14,253 - DEBUG - Selecting state: NCR and city: Delhi
+2025-07-07 15:57:14,526 - DEBUG - Submitting the form...
+2025-07-07 15:57:14,527 - DEBUG - Clicking the submit button.
+2025-07-07 15:57:14,572 - DEBUG - Ads dismissed successfully.
+2025-07-07 15:57:14,738 - DEBUG - Saving confirmation screenshot as: confirmation_Zach_Coleman_2025-07-07_15-57-14.png
+2025-07-07 15:57:15,164 - INFO - 
+✅ Confirmation screenshot saved to: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/screenshots/confirmation_Zach_Coleman_2025-07-07_15-57-14.png
+2025-07-07 15:57:15,165 - DEBUG - Fetching confirmation modal text.
+2025-07-07 15:57:15,194 - DEBUG - Confirmation text: Thanks for submitting the form
+2025-07-07 15:57:15,195 - INFO - Test passed for: Zach Coleman
+2025-07-07 15:57:17,844 - INFO - Starting test for: Jane Doe
+2025-07-07 15:57:24,438 - DEBUG - Ads dismissed successfully.
+2025-07-07 15:57:24,438 - DEBUG - Filling form fields...
+2025-07-07 15:57:24,438 - DEBUG - Entering first name: Jane
+2025-07-07 15:57:24,774 - DEBUG - Entering last name: Doe
+2025-07-07 15:57:25,059 - DEBUG - Entering email: jane.doe@example.com
+2025-07-07 15:57:25,217 - DEBUG - Selecting gender: Female
+2025-07-07 15:57:25,365 - DEBUG - Entering phone number: 0987654321
+2025-07-07 15:57:25,501 - DEBUG - Entering birthdate: 15 May 1990
+2025-07-07 15:57:25,930 - DEBUG - Ads dismissed successfully.
+2025-07-07 15:57:27,593 - DEBUG - Entering subject: Maths
+2025-07-07 15:57:28,051 - DEBUG - Selecting hobby: Music
+2025-07-07 15:57:28,089 - DEBUG - Uploading picture from: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/assets/image2.JPG
+2025-07-07 15:57:28,131 - DEBUG - Entering address: 456 Elm St
+2025-07-07 15:57:28,217 - DEBUG - Selecting state: Uttar Pradesh and city: Lucknow
+2025-07-07 15:57:28,548 - DEBUG - Submitting the form...
+2025-07-07 15:57:28,548 - DEBUG - Clicking the submit button.
+2025-07-07 15:57:28,590 - DEBUG - Ads dismissed successfully.
+2025-07-07 15:57:28,758 - DEBUG - Saving confirmation screenshot as: confirmation_Jane_Doe_2025-07-07_15-57-28.png
+2025-07-07 15:57:29,158 - INFO - 
+✅ Confirmation screenshot saved to: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/screenshots/confirmation_Jane_Doe_2025-07-07_15-57-28.png
+2025-07-07 15:57:29,158 - DEBUG - Fetching confirmation modal text.
+2025-07-07 15:57:29,184 - DEBUG - Confirmation text: Thanks for submitting the form
+2025-07-07 15:57:29,185 - INFO - Test passed for: Jane Doe
+2025-07-07 16:01:38,480 - INFO - Starting test for: Zach Coleman
+2025-07-07 16:01:41,756 - DEBUG - Attempted ad removal using repeated JS execution.
+2025-07-07 16:01:41,756 - DEBUG - Filling form fields...
+2025-07-07 16:01:41,757 - DEBUG - Entering first name: Zach
+2025-07-07 16:01:42,089 - DEBUG - Entering last name: Coleman
+2025-07-07 16:01:42,184 - DEBUG - Entering email: zach@example.com
+2025-07-07 16:01:42,272 - DEBUG - Selecting gender: Male
+2025-07-07 16:01:42,308 - DEBUG - Entering phone number: 1234567890
+2025-07-07 16:01:42,592 - DEBUG - Entering birthdate: 21 Oct 1995
+2025-07-07 16:01:42,622 - DEBUG - Attempted ad removal using repeated JS execution.
+2025-07-07 16:01:47,275 - INFO - Starting test for: Jane Doe
+2025-07-07 16:01:53,940 - DEBUG - Attempted ad removal using repeated JS execution.
+2025-07-07 16:01:53,940 - DEBUG - Filling form fields...
+2025-07-07 16:01:53,940 - DEBUG - Entering first name: Jane
+2025-07-07 16:01:54,323 - DEBUG - Entering last name: Doe
+2025-07-07 16:01:54,406 - DEBUG - Entering email: jane.doe@example.com
+2025-07-07 16:01:54,522 - DEBUG - Selecting gender: Female
+2025-07-07 16:01:54,554 - DEBUG - Entering phone number: 0987654321
+2025-07-07 16:01:54,637 - DEBUG - Entering birthdate: 15 May 1990
+2025-07-07 16:01:54,645 - DEBUG - Attempted ad removal using repeated JS execution.
+2025-07-07 16:01:55,247 - DEBUG - Entering subject: Maths
+2025-07-07 16:01:55,603 - DEBUG - Selecting hobby: Music
+2025-07-07 16:01:55,669 - DEBUG - Uploading picture from: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/assets/image2.JPG
+2025-07-07 16:01:56,197 - DEBUG - Entering address: 456 Elm St
+2025-07-07 16:01:56,374 - DEBUG - Selecting state: Uttar Pradesh and city: Lucknow
+2025-07-07 16:01:57,660 - DEBUG - Submitting the form...
+2025-07-07 16:01:57,661 - DEBUG - Clicking the submit button.
+2025-07-07 16:01:57,687 - DEBUG - Attempted ad removal using repeated JS execution.
+2025-07-07 16:01:57,846 - DEBUG - Saving confirmation screenshot as: confirmation_Jane_Doe_2025-07-07_16-01-57.png
+2025-07-07 16:01:58,279 - INFO - 
+✅ Confirmation screenshot saved to: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/screenshots/confirmation_Jane_Doe_2025-07-07_16-01-57.png
+2025-07-07 16:01:58,279 - DEBUG - Fetching confirmation modal text.
+2025-07-07 16:01:58,306 - DEBUG - Confirmation text: Thanks for submitting the form
+2025-07-07 16:01:58,307 - INFO - Test passed for: Jane Doe
+2025-07-07 16:02:43,767 - INFO - Starting test for: Zach Coleman
+2025-07-07 16:02:51,027 - DEBUG - Attempted ad removal using repeated JS execution.
+2025-07-07 16:02:51,027 - DEBUG - Filling form fields...
+2025-07-07 16:02:51,027 - DEBUG - Entering first name: Zach
+2025-07-07 16:02:51,398 - DEBUG - Entering last name: Coleman
+2025-07-07 16:02:51,520 - DEBUG - Entering email: zach@example.com
+2025-07-07 16:02:51,646 - DEBUG - Selecting gender: Male
+2025-07-07 16:02:51,684 - DEBUG - Entering phone number: 1234567890
+2025-07-07 16:02:51,793 - DEBUG - Entering birthdate: 21 Oct 1995
+2025-07-07 16:02:51,806 - DEBUG - Attempted ad removal using repeated JS execution.
+2025-07-07 16:02:56,629 - INFO - Starting test for: Jane Doe
+2025-07-07 16:02:59,422 - DEBUG - Attempted ad removal using repeated JS execution.
+2025-07-07 16:02:59,422 - DEBUG - Filling form fields...
+2025-07-07 16:02:59,422 - DEBUG - Entering first name: Jane
+2025-07-07 16:02:59,702 - DEBUG - Entering last name: Doe
+2025-07-07 16:02:59,835 - DEBUG - Entering email: jane.doe@example.com
+2025-07-07 16:03:00,004 - DEBUG - Selecting gender: Female
+2025-07-07 16:03:00,111 - DEBUG - Entering phone number: 0987654321
+2025-07-07 16:03:00,515 - DEBUG - Entering birthdate: 15 May 1990
+2025-07-07 16:03:00,522 - DEBUG - Attempted ad removal using repeated JS execution.
+2025-07-07 16:03:01,362 - DEBUG - Entering subject: Maths
+2025-07-07 16:03:01,677 - DEBUG - Selecting hobby: Music
+2025-07-07 16:03:01,737 - DEBUG - Uploading picture from: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/assets/image2.JPG
+2025-07-07 16:03:01,776 - DEBUG - Entering address: 456 Elm St
+2025-07-07 16:03:01,852 - DEBUG - Selecting state: Uttar Pradesh and city: Lucknow
+2025-07-07 16:03:02,147 - DEBUG - Submitting the form...
+2025-07-07 16:03:02,147 - DEBUG - Clicking the submit button.
+2025-07-07 16:03:02,151 - DEBUG - Attempted ad removal using repeated JS execution.
+2025-07-07 16:03:02,334 - DEBUG - Saving confirmation screenshot as: confirmation_Jane_Doe_2025-07-07_16-03-02.png
+2025-07-07 16:03:02,780 - INFO - 
+✅ Confirmation screenshot saved to: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/screenshots/confirmation_Jane_Doe_2025-07-07_16-03-02.png
+2025-07-07 16:03:02,780 - DEBUG - Fetching confirmation modal text.
+2025-07-07 16:03:02,807 - DEBUG - Confirmation text: Thanks for submitting the form
+2025-07-07 16:03:02,807 - INFO - Test passed for: Jane Doe
+2025-07-07 16:10:09,870 - INFO - Starting test for: Zach Coleman
+2025-07-07 16:10:17,857 - DEBUG - Ads removed successfully.
+2025-07-07 16:10:17,857 - DEBUG - Filling form fields...
+2025-07-07 16:10:17,857 - DEBUG - Entering first name: Zach
+2025-07-07 16:10:18,057 - DEBUG - Entering last name: Coleman
+2025-07-07 16:10:18,383 - DEBUG - Entering email: zach@example.com
+2025-07-07 16:10:18,626 - DEBUG - Selecting gender: Male
+2025-07-07 16:10:18,782 - DEBUG - Entering phone number: 1234567890
+2025-07-07 16:10:20,815 - DEBUG - Entering birthdate: 21 Oct 1995
+2025-07-07 16:10:20,930 - DEBUG - Ads removed successfully.
+2025-07-07 16:10:21,343 - DEBUG - Entering subject: History
+2025-07-07 16:10:21,489 - DEBUG - Selecting hobby: Reading
+2025-07-07 16:10:21,530 - DEBUG - Uploading picture from: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/assets/image1.JPG
+2025-07-07 16:10:21,572 - DEBUG - Entering address: 123 Main St
+2025-07-07 16:10:21,634 - DEBUG - Selecting state: NCR and city: Delhi
+2025-07-07 16:10:21,879 - DEBUG - Submitting the form...
+2025-07-07 16:10:21,880 - DEBUG - Clicking the submit button.
+2025-07-07 16:10:27,008 - DEBUG - No ads found to remove.
+2025-07-07 16:10:27,162 - DEBUG - Saving confirmation screenshot as: confirmation_Zach_Coleman_2025-07-07_16-10-27.png
+2025-07-07 16:10:27,570 - INFO - 
+✅ Confirmation screenshot saved to: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/screenshots/confirmation_Zach_Coleman_2025-07-07_16-10-27.png
+2025-07-07 16:10:27,571 - DEBUG - Fetching confirmation modal text.
+2025-07-07 16:10:27,610 - DEBUG - Confirmation text: Thanks for submitting the form
+2025-07-07 16:10:27,610 - INFO - Test passed for: Zach Coleman
+2025-07-07 16:10:30,333 - INFO - Starting test for: Jane Doe
+2025-07-07 16:10:33,497 - DEBUG - Ads removed successfully.
+2025-07-07 16:10:33,498 - DEBUG - Filling form fields...
+2025-07-07 16:10:33,498 - DEBUG - Entering first name: Jane
+2025-07-07 16:10:33,964 - DEBUG - Entering last name: Doe
+2025-07-07 16:10:34,069 - DEBUG - Entering email: jane.doe@example.com
+2025-07-07 16:10:34,213 - DEBUG - Selecting gender: Female
+2025-07-07 16:10:34,387 - DEBUG - Entering phone number: 0987654321
+2025-07-07 16:10:34,560 - DEBUG - Entering birthdate: 15 May 1990
+2025-07-07 16:10:34,930 - DEBUG - Ads removed successfully.
+2025-07-07 16:10:35,649 - DEBUG - Entering subject: Maths
+2025-07-07 16:10:36,455 - DEBUG - Selecting hobby: Music
+2025-07-07 16:10:36,508 - DEBUG - Uploading picture from: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/assets/image2.JPG
+2025-07-07 16:10:36,599 - DEBUG - Entering address: 456 Elm St
+2025-07-07 16:10:36,701 - DEBUG - Selecting state: Uttar Pradesh and city: Lucknow
+2025-07-07 16:10:37,035 - DEBUG - Submitting the form...
+2025-07-07 16:10:37,035 - DEBUG - Clicking the submit button.
+2025-07-07 16:10:37,073 - DEBUG - Ads removed successfully.
+2025-07-07 16:10:37,226 - DEBUG - Saving confirmation screenshot as: confirmation_Jane_Doe_2025-07-07_16-10-37.png
+2025-07-07 16:10:37,627 - INFO - 
+✅ Confirmation screenshot saved to: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/screenshots/confirmation_Jane_Doe_2025-07-07_16-10-37.png
+2025-07-07 16:10:37,628 - DEBUG - Fetching confirmation modal text.
+2025-07-07 16:10:37,664 - DEBUG - Confirmation text: Thanks for submitting the form
+2025-07-07 16:10:37,664 - INFO - Test passed for: Jane Doe
+2025-07-07 19:37:26,616 - INFO - Starting test for: Zach Coleman
+2025-07-07 19:37:30,530 - DEBUG - Ads detected on page. Attempting to remove...
+2025-07-07 19:37:33,122 - INFO - Ads removed from the page.
+2025-07-07 19:37:33,123 - DEBUG - Filling form fields...
+2025-07-07 19:37:33,123 - DEBUG - Entering first name: Zach
+2025-07-07 19:37:33,405 - DEBUG - Entering last name: Coleman
+2025-07-07 19:37:33,483 - DEBUG - Entering email: zach@example.com
+2025-07-07 19:37:33,567 - DEBUG - Selecting gender: Male
+2025-07-07 19:37:33,598 - DEBUG - Entering phone number: 1234567890
+2025-07-07 19:37:33,672 - DEBUG - Entering birthdate: 21 Oct 1995
+2025-07-07 19:37:38,791 - INFO - No ads found to remove.
+2025-07-07 19:37:39,154 - DEBUG - Entering subject: History
+2025-07-07 19:37:39,287 - DEBUG - Selecting hobby: Reading
+2025-07-07 19:37:39,330 - DEBUG - Uploading picture from: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/assets/image1.JPG
+2025-07-07 19:37:39,366 - DEBUG - Entering address: 123 Main St
+2025-07-07 19:37:39,429 - DEBUG - Selecting state: NCR and city: Delhi
+2025-07-07 19:37:39,650 - DEBUG - Submitting the form...
+2025-07-07 19:37:39,650 - DEBUG - Clicking the submit button.
+2025-07-07 19:37:44,765 - INFO - No ads found to remove.
+2025-07-07 19:37:44,917 - DEBUG - Saving confirmation screenshot as: confirmation_Zach_Coleman_2025-07-07_19-37-44.png
+2025-07-07 19:37:45,319 - INFO - 
+✅ Confirmation screenshot saved to: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/screenshots/confirmation_Zach_Coleman_2025-07-07_19-37-44.png
+2025-07-07 19:37:45,319 - DEBUG - Fetching confirmation modal text.
+2025-07-07 19:37:45,345 - DEBUG - Confirmation text: Thanks for submitting the form
+2025-07-07 19:37:45,346 - INFO - Test passed for: Zach Coleman
+2025-07-07 19:37:47,930 - INFO - Starting test for: Jane Doe
+2025-07-07 19:37:50,529 - DEBUG - Ads detected on page. Attempting to remove...
+2025-07-07 19:37:53,952 - INFO - Ads removed from the page.
+2025-07-07 19:37:53,953 - DEBUG - Filling form fields...
+2025-07-07 19:37:53,954 - DEBUG - Entering first name: Jane
+2025-07-07 19:37:54,166 - DEBUG - Entering last name: Doe
+2025-07-07 19:37:54,232 - DEBUG - Entering email: jane.doe@example.com
+2025-07-07 19:37:54,307 - DEBUG - Selecting gender: Female
+2025-07-07 19:37:54,340 - DEBUG - Entering phone number: 0987654321
+2025-07-07 19:37:54,415 - DEBUG - Entering birthdate: 15 May 1990
+2025-07-07 19:37:59,525 - INFO - No ads found to remove.
+2025-07-07 19:37:59,888 - DEBUG - Entering subject: Maths
+2025-07-07 19:38:00,012 - DEBUG - Selecting hobby: Music
+2025-07-07 19:38:00,053 - DEBUG - Uploading picture from: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/assets/image2.JPG
+2025-07-07 19:38:00,093 - DEBUG - Entering address: 456 Elm St
+2025-07-07 19:38:00,143 - DEBUG - Selecting state: Uttar Pradesh and city: Lucknow
+2025-07-07 19:38:00,396 - DEBUG - Submitting the form...
+2025-07-07 19:38:00,396 - DEBUG - Clicking the submit button.
+2025-07-07 19:38:05,541 - INFO - No ads found to remove.
+2025-07-07 19:38:05,668 - DEBUG - Saving confirmation screenshot as: confirmation_Jane_Doe_2025-07-07_19-38-05.png
+2025-07-07 19:38:06,022 - INFO - 
+✅ Confirmation screenshot saved to: /Users/zachcoleman/Documents/Coding/Python/form_filler_automation/screenshots/confirmation_Jane_Doe_2025-07-07_19-38-05.png
+2025-07-07 19:38:06,023 - DEBUG - Fetching confirmation modal text.
+2025-07-07 19:38:06,051 - DEBUG - Confirmation text: Thanks for submitting the form
+2025-07-07 19:38:06,051 - INFO - Test passed for: Jane Doe
