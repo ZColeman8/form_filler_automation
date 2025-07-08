@@ -47,9 +47,13 @@ form_filler_automation/
 
 ## ▶️ Run Tests
 
+To run all tests and generate an HTML report, simply run:
+
 ```bash
-pytest --html=reports/report.html -s
+pytest
 ```
+
+Note: The pytest.ini is preconfigured with -s for console output and --html=reports/report.html for reporting.
 
 ## 📸 Screenshots
 
