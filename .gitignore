@@ -9,8 +9,11 @@ venv/
 
 # Test & build artifacts
 .pytest_cache/
-reports/
-screenshots/
+reports/*
+screenshots/*
+
+!reports/.gitkeep
+!screenshots/.gitkeep
 
 # macOS
 .DS_Store
