@@ -12,6 +12,7 @@ This project automates form submission on [DemoQA's Practice Form](https://demoq
 - HTML reporting via `pytest-html`
 - Auto WebDriver management via `webdriver-manager`
 - Ad-block workaround using JavaScript injection
+- CI integration (GitHub Actions)
 
 ## 🧪 Technologies
 
@@ -64,7 +65,6 @@ Note: The pytest.ini is preconfigured with -s for console output and --html=repo
 
 - Add negative test scenarios (e.g., missing data)
 - Use Faker to generate randomized data
-- CI integration (GitHub Actions, Jenkins)
 - Capture dynamic form states
 - Export submission data to reports
 
