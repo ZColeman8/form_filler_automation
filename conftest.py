@@ -12,7 +12,16 @@ from datetime import datetime
 
 @pytest.fixture
 def driver():
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+    path = ChromeDriverManager().install()
+    print(f"Resolved ChromeDriver path: {path}")  # DEBUG
+    if not path.endswith("chromedriver"):
+        raise RuntimeError(f"Unexpected driver path: {path}")
+    service = Service(path)
+    options = webdriver.ChromeOptions()
+    options.add_argument("--no-sandbox")
+    options.add_argument("--headless")  # Headless is important for CI
+    options.add_argument("--disable-dev-shm-usage")
+    driver = webdriver.Chrome(service=service, options=options)
     driver.maximize_window()
     yield driver
     driver.quit()
