@@ -1,78 +1,132 @@
-# 🧾 Selenium Form Filler Automation
+# 🧾 Form Filler Automation with Selenium & Pytest
 
-This project automates form submission on [DemoQA's Practice Form](https://demoqa.com/automation-practice-form) using Selenium WebDriver with Pytest and Python.
+Automates a full form submission on [DemoQA Practice Form](https://demoqa.com/automation-practice-form) using:
 
-## ✅ Features
-
-- Full form automation (text fields, gender, hobbies, state/city, etc.)
-- Test parameterization for multiple users
-- Page Object Model (POM) design pattern
-- Screenshots on failure and successful confirmation
-- Logging using Python’s `logging` module
-- HTML reporting via `pytest-html`
-- Auto WebDriver management via `webdriver-manager`
-- Ad-block workaround using JavaScript injection
-- CI integration (GitHub Actions)
-
-## 🧪 Technologies
-
-- Python 3.11+
-- Selenium 4.x
+- Selenium WebDriver
 - Pytest
-- Webdriver-Manager
-- Pytest-HTML
+- Page Object Model
+- Parameterized test data
+- Screenshot on failure & confirmation
+- Pytest HTML report
+- Logging for traceability
+- GitHub Actions CI
+
+---
 
 ## 📁 Project Structure
 
 ```
 form_filler_automation/
-├── assets/
-│   └── image1.JPG
-├── reports/
-├── logs/
-    └── form_test.log
-├── screenshots/
+├── .github/
+│   └── workflows/
+│       └── ci.yml                # GitHub Actions workflow
+├── assets/                       # Test assets (images)
+├── reports/                      # Pytest HTML reports (.gitkeep included)
+├── screenshots/                  # Screenshots on failure/success (.gitkeep included)
 ├── src/
 │   ├── pages/
-│   │   └── form_page.py
+│   │   ├── form_page.py          # Page Object for form
+│   │   └── __init__.py
 │   └── utils/
-│       ├── logger.py
-│       └── test_data.py
+│       ├── test_data.py          # Parameterized test data
+│       ├── logger.py             # Centralized logger
+│       └── __init__.py
 ├── tests/
-│   └── test_fill_form.py
-├── conftest.py
+│   ├── test_fill_form.py         # Parametrized form test
+│   └── __init__.py
+├── .gitignore
+├── conftest.py                   # Pytest fixtures and screenshot on failure
+├── pytest.ini                    # Pytest default config
 ├── requirements.txt
-├── pytest.ini
-└── README.md
+└── README.md                     # This file
 ```
+
+---
 
 ## ▶️ Run Tests
 
-To run all tests and generate an HTML report, simply run:
-
+### Locally:
 ```bash
 pytest
 ```
 
-Note: The pytest.ini is preconfigured with -s for console output and --html=reports/report.html for reporting.
+### With HTML Report:
+```bash
+pytest --html=reports/report.html -s
+```
+
+---
+
+## ✅ Key Features
+
+- **Full Form Automation** on demoqa.com
+- **Parameterized Testing** with multiple user inputs
+- **Screenshot on Failure & Confirmation**
+- **HTML Report Generation**
+- **Custom Logging** with `logger.py`
+- **CI/CD Pipeline** via GitHub Actions
+- **Ad Removal** to avoid test interference
+- **Page Object Model** design
+
+---
+
+## 🔍 Sample Logs
+
+```
+2025-07-10 00:10:00 [INFO] Starting test for: Zach Coleman
+✅ Confirmation screenshot saved to: screenshots/confirmation_Zach_Coleman_2025-07-10_00-10-03.png
+2025-07-10 00:10:04 [INFO] Test passed for: Zach Coleman
+```
+
+---
+
+## 🧪 HTML Report Example
+
+After test execution:
+- Find report at `reports/report.html`
+- Open in browser to view pass/fail breakdown and captured logs
+
+---
+
+## 🔁 Continuous Integration (CI)
+
+GitHub Actions workflow runs automatically on each push to `main`. View test status in the **Actions** tab.
+
+Includes:
+- ✅ Pytest execution
+- ✅ HTML report saved as artifact
+- ✅ Screenshot upload on failure
+
+---
 
 ## 📸 Screenshots
 
-- On **failure**, saved in `screenshots/`
-- On **success**, confirmation screenshot also saved
+- Stored in `/screenshots/`
+- Named using timestamp and test name
+- Saved on both failure (automatically) and form submission (confirmation)
 
-## 🔧 Future Enhancements
+---
 
-- Add negative test scenarios (e.g., missing data)
-- Use Faker to generate randomized data
-- Capture dynamic form states
-- Export submission data to reports
+## 📌 Future Enhancements
+
+- [ ] Negative test cases (e.g., blank fields, invalid email)
+- [ ] Browser compatibility testing (Firefox, Edge)
+- [ ] Dockerized setup for consistency
+- [ ] Parallel test execution with `pytest-xdist`
+- [ ] Test data loaded from JSON/CSV
+- [ ] Better handling of flaky ad popups
+
+---
 
 ## 👨‍💻 Author
 
-Zach Coleman  
+**Zach Coleman**  
 QA Automation Engineer in Training
 
-## 🪪 License
+---
 
-This project is for educational and portfolio use.
+## 🏁 License
+
+This project is for educational and portfolio purposes. Feel free to fork or clone it for learning and demonstration.
+
+---
