@@ -2,7 +2,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
-from selenium.common.exceptions import TimeoutException
+from selenium.common.exceptions import JavascriptException
 from src.utils.logger import logger
 import os
 import time
@@ -28,22 +28,15 @@ class FormPage:
 
     def dismiss_ads(self):
         try:
-            WebDriverWait(self.driver, 5).until(
-                EC.presence_of_element_located((By.CSS_SELECTOR, "iframe, .adsbygoogle, .fixedban"))
-            )
-            logger.debug("Ads detected on page. Attempting to remove...")
-
-            time.sleep(1.5)
-
             self.driver.execute_script("""
-                const ads = document.querySelectorAll('iframe, .adsbygoogle, .fixedban');
-                ads.forEach(ad => ad.remove());
+                const adSelectors = ['iframe', '.adsbygoogle', '.fixedban', '[id^="google_ads_iframe"]'];
+                adSelectors.forEach(sel => {
+                    document.querySelectorAll(sel).forEach(el => el.remove());
+                });
             """)
-            logger.info("Ads removed from the page.")
-        except TimeoutException:
-            logger.info("No ads found to remove.")
-        except Exception as e:
-            logger.warning(f"Error trying to remove ads: {e}")
+            logger.debug("Ads dismissed via JavaScript.")
+        except JavascriptException as e:
+            logger.warning(f"Ad dismissal script failed: {e}")
 
     def fill_first_name(self, first_name):
         logger.debug(f"Entering first name: {first_name}")
@@ -67,8 +60,8 @@ class FormPage:
         self.wait.until(EC.visibility_of_element_located(self.phone_input)).send_keys(phone)
 
     def fill_birthdate(self, birthdate):
-        logger.debug(f"Entering birthdate: {birthdate}")
         self.dismiss_ads()
+        logger.debug(f"Entering birthdate: {birthdate}")
         birth_field = self.wait.until(EC.element_to_be_clickable(self.birthdate_input))
         birth_field.click()
         self.driver.execute_script("arguments[0].value = '';", birth_field)
@@ -104,8 +97,8 @@ class FormPage:
         self.driver.find_element(*self.city_dropdown).send_keys(Keys.RETURN)
 
     def submit(self, first_name, last_name):
-        logger.debug("Clicking the submit button.")
         self.dismiss_ads()
+        logger.debug("Clicking the submit button.")
         self.driver.execute_script("arguments[0].scrollIntoView(true);", self.driver.find_element(*self.submit_button))
         self.driver.find_element(*self.submit_button).click()
 
